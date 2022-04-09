@@ -1,0 +1,19 @@
+div.footer_contents {
+  text-align: center;
+  font-size: 0.8em;
+  letter-spacing: 0.05ch;
+}
+
+div.footer_contents.old_sites {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em 2em;
+  a {
+    filter: grayscale(1);
+    transition: filter .3s ease;
+    &:hover {
+      filter: grayscale(0);
+    }
+  }
+}

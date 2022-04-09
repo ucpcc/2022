@@ -1,0 +1,154 @@
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  color: #fff;
+  background: rgba(34, 34, 34, 0.5);
+}
+
+html {
+  font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto,
+    "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR",
+    "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    sans-serif;
+  font-size: calc(0.75vmin + 10px);
+  font-weight: 400;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  letter-spacing: -0.05ch;
+  overflow-x: hidden;
+  --screen-max-width: 960px;
+  --ucpc-amber: #ffb000;
+  --ucpc-amber-dark: #ffb000;
+  --ucpc-blue: #00597f;
+  --ucpc-blue-dark: #001927;
+  --ucpc-gray-light: #f2f3f7;
+  --ucpc-gray: #a0a2a9;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  /* overflow-x: hidden; */
+  background: white;
+  color: var(--ucpc-blue-dark);
+  line-height: 1.6;
+  word-break: keep-all;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 900;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: 1.6em;
+  font-weight: 800;
+  margin: 1em 0;
+}
+
+h3 {
+  font-weight: 800;
+  margin: 1em 0;
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+b {
+  font-weight: 700;
+}
+
+textarea,
+input,
+select {
+  font: inherit;
+}
+
+option {
+  color: #000;
+}
+
+code,
+pre {
+  font-family: "JetBrains Mono", "Noto Sans KR", "Consolas", "Courier New",
+    Courier, monospace;
+}
+
+a,
+a:link,
+a:visited {
+  color: var(--ucpc-amber-dark);
+  font-weight: 800;
+  text-decoration: inherit;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.mail-address:after {
+  content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+div.hr,
+hr {
+  width: 80%;
+  max-width: 320px;
+  height: 2px;
+  margin: 0 auto;
+  background: var(--ucpc-gray-light);
+}
+
+hr {
+  margin: 2em auto;
+  border: none;
+}
+
+.contents {
+  width: 100%;
+  max-width: var(--screen-max-width);
+  margin: 0 auto;
+  padding: 0 2em;
+}
+
+table {
+  min-width: 100%;
+  border-radius: 0.5em;
+  overflow: hidden;
+  margin: 1em 0;
+  th,
+  td {
+    padding: 0.5em 1ch;
+  }
+  th {
+    font-weight: 800;
+    color: white;
+    background-color: var(--ucpc-amber);
+  }
+  tr:nth-child(even) {
+    background-color: var(--ucpc-gray-light);
+  }
+}
