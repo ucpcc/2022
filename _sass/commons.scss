@@ -102,8 +102,13 @@ ul {
   font-weight: 800;
 }
 
-b {
+b,
+strong {
   font-weight: 700;
+}
+
+small {
+  font-size: small;
 }
 
 textarea,
