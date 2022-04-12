@@ -11,7 +11,21 @@ div.footer_contents.old_sites {
   gap: 1em 2em;
   a {
     filter: grayscale(1);
-    transition: filter .3s ease;
+    transition: filter 0.3s ease;
+    &:hover {
+      filter: grayscale(0);
+    }
+  }
+}
+
+div.sponsors {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em 2em;
+  a {
+    filter: grayscale(1);
+    transition: filter 0.3s ease;
     &:hover {
       filter: grayscale(0);
     }
