@@ -20,6 +20,13 @@ title: UCPC 2022
 
 ---
 
+## UCPC 2022 스폰서
+<div class="sponsors-grid">
+  {%- include sponsors.html -%}
+</div>
+
+---
+
 ## 문의
 
 참가 관련 문의 사항은 <a href="#" class="mail-address" data-name="contact" data-domain="ucpc" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 부탁드립니다.
