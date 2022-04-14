@@ -30,14 +30,23 @@ html {
   --ucpc-blue-dark: #001927;
   --ucpc-gray-light: #f2f3f7;
   --ucpc-gray: #a0a2a9;
+  --background-color: white;
+  --text-color: var(--ucpc-blue-dark);
 }
+
+// @media (prefers-color-scheme: dark) {
+//   html {
+//     --background-color: var(--ucpc-blue-dark);
+//     --text-color: var(--ucpc-gray-light);
+//   }
+// }
 
 body {
   margin: 0;
   width: 100%;
   /* overflow-x: hidden; */
-  background: white;
-  color: var(--ucpc-blue-dark);
+  background: var(--background-color);
+  color: var(--text-color);
   line-height: 1.6;
   word-break: keep-all;
 }
