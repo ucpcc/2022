@@ -31,3 +31,15 @@ div.sponsors {
     }
   }
 }
+
+div.sponsors-grid {
+  display: grid;
+  font-size: 1.6em;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  place-items: center start;
+  align-items: center;
+  justify-items: center;
+  justify-content: space-around;
+  padding: 16px;
+  gap: 16px;
+}

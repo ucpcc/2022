@@ -4,6 +4,13 @@ title: 스폰서 문의
 permalink: /sponsor/
 ---
 
+<h2 style="text-align: center;">
+  UCPC 2022 스폰서
+</h2>
+<div class="sponsors-grid">
+  {%- include sponsors.html -%}
+</div>
+
 ## 스폰서 문의
 
 안녕하세요, 전국 대학생 프로그래밍 대회 동아리 연합입니다.
