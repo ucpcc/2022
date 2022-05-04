@@ -6,6 +6,7 @@ div.footer_contents {
 
 div.footer_contents.old_sites {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 1em 2em;
@@ -20,6 +21,7 @@ div.footer_contents.old_sites {
 
 div.sponsors {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 1em 2em;
