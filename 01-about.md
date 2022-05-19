@@ -72,15 +72,17 @@ TBD
 
 | 대회 | 문제 | 풀이 | 결과 |
 | --- | :---: | :---: | :---: |
-| 2021 본선 | [문제](https://www.acmicpc.net/category/detail/2743) | [풀이](http://2021.ucpc.me/assets/ucpc21-finals-solutions.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/670) |
-| 2021 예선 | [문제](https://www.acmicpc.net/category/detail/2692) | [풀이](http://2021.ucpc.me/assets/ucpc21-prelim-solutions.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/668) |
-| 2020 본선 | [문제](https://www.acmicpc.net/category/detail/2272) | [풀이](http://2020.ucpc.me/assets/ucpc20-finals-solutions.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/524) |
-| 2020 예선 | [문제](https://www.acmicpc.net/category/detail/2270) | [풀이](http://2020.ucpc.me/assets/ucpc20-prelim-solutions.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/521) |
-| 2019 본선 | [문제](https://www.acmicpc.net/category/detail/2054) | [풀이](http://2019.ucpc.me/assets/UCPC2019_sol_stat.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/450) |
-| 2019 예선 | [문제](https://www.acmicpc.net/category/detail/2053) | [풀이](https://drive.google.com/file/d/1lEkJ4sW5s2bD8SXHh2nYVp8MgXf2nkNg/view) | [대회 결과](https://www.acmicpc.net/contest/spotboard/449) |
-| 2018 본선 | [문제](https://www.acmicpc.net/category/detail/1893) | [풀이](https://docs.google.com/presentation/d/1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA/edit#slide=id.p) | [대회 결과](https://www.acmicpc.net/contest/spotboard/314) |
-| 2018 예선 | [문제](https://www.acmicpc.net/category/detail/1891) | [풀이](https://docs.google.com/presentation/d/1y4f_ZCcWgCZocPZozsaFZpn2AJSx3ZtPwEFM3h7NurU) | [대회 결과](https://www.acmicpc.net/contest/spotboard/307) |
-| 2016 | [문제](https://www.acmicpc.net/category/detail/1510) | [풀이](https://www.slideshare.net/JeonDaePeuYeon/2016-ucpc-65393552) | [대회 영상](https://www.youtube.com/watch?v=vScs5byLKcc) |
-| 2015 | [문제](https://www.acmicpc.net/category/detail/1358) | [풀이](https://www.slideshare.net/SunyoungKim14/5-51953762) | [대회 결과](https://ucpc2015.acmicpc.net/) |
-| 2014 | [문제](https://algospot.com/judge/problem/list/?source=제4회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회) | | [대회 결과](http://140823.hodduc.net/) |
-| 2013 | [문제](https://algospot.com/judge/problem/list/?source=제3회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회) | [풀이](https://dl.dropboxusercontent.com/s/lvx9t5xunt9bbja/ucpc-3rd-solution-slide.pdf) | [대회 결과](https://dl.dropboxusercontent.com/s/sk5n8ur0kl7l5gq/ucpc-3rd-standing.png) |
+| 2021 본선 | [문제](https://www.acmicpc.net/category/detail/2743) | [풀이](https://static.ucpc.me/files/2021/ucpc21-finals-solutions.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/670) |
+| 2021 예선 | [문제](https://www.acmicpc.net/category/detail/2692) | [풀이](https://static.ucpc.me/files/2021/ucpc21-prelim-solutions.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/668) |
+| 2020 본선 | [문제](https://www.acmicpc.net/category/detail/2272) | [풀이](https://static.ucpc.me/files/2020/ucpc20-finals-solutions.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/524) |
+| 2020 예선 | [문제](https://www.acmicpc.net/category/detail/2270) | [풀이](https://static.ucpc.me/files/2020/ucpc20-prelim-solutions.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/521) |
+| 2019 본선 | [문제](https://www.acmicpc.net/category/detail/2054) | [풀이](https://static.ucpc.me/files/2019/ucpc-2019-finals.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/450) |
+| 2019 예선 | [문제](https://www.acmicpc.net/category/detail/2053) | [풀이](https://static.ucpc.me/files/2019/ucpc-2019-prelim.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/449) |
+| 2018 본선 | [문제](https://www.acmicpc.net/category/detail/1893) | [풀이](https://static.ucpc.me/files/2018/ucpc-2018-finals.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/314) |
+| 2018 예선 | [문제](https://www.acmicpc.net/category/detail/1891) | [풀이](https://static.ucpc.me/files/2018/ucpc-2018-prelim.pdf) | [대회 결과](https://www.acmicpc.net/contest/spotboard/307) |
+| 2016 | [문제](https://www.acmicpc.net/category/detail/1510) | [풀이](https://static.ucpc.me/files/2016/2016-ucpc-65393552.pdf) | [대회 영상](https://www.youtube.com/watch?v=vScs5byLKcc) |
+| 2015 | [문제](https://www.acmicpc.net/category/detail/1358) | [풀이](https://static.ucpc.me/files/2015/5-51953762.pdf) | [대회 결과](https://ucpc2015.acmicpc.net/) |
+| 2014 | [문제](https://algospot.com/judge/problem/list/?source=제4회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회) | [풀이](https://static.ucpc.me/files/2014/ucpc2014_sol_.pdf) | [대회 결과](http://140823.hodduc.net/) |
+| 2013 | [문제](https://algospot.com/judge/problem/list/?source=제3회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회) | [풀이](https://static.ucpc.me/files/2013/ucpc-3rd-solution-slide.pdf) | [대회 결과](https://dl.dropboxusercontent.com/s/sk5n8ur0kl7l5gq/ucpc-3rd-standing.png) |
+| 2012 | | | |
+| 2011 | | [풀이](https://static.ucpc.me/files/2011/ucpc-1st-slide.pdf) | |
