@@ -22,9 +22,12 @@ title: UCPC 2022
 - 예선 --- **7월 2일 (토요일)**, 온라인
 - 본선 --- **7월 23일 (토요일)**, 스페이스쉐어 삼성COEX 센터
 
+{%- include map.html -%}
+
 ---
 
 ## UCPC 2022 스폰서
+
 <div class="sponsors-grid">
   {%- include sponsors.html -%}
 </div>
