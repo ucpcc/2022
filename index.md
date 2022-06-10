@@ -19,7 +19,7 @@ title: UCPC 2022
 
 ## 대회 일정 및 장소
 
-- 참가 신청 --- [신청하기 &rarr;](https://forms.gle/8VyPLm3YzbxZgT7Y7), **6월 23일 (목요일)**까지
+- 참가 신청 --- **6월 23일 (목요일)**까지, [신청하기 &rarr;](https://forms.gle/8VyPLm3YzbxZgT7Y7) [팀 목록 &rarr;](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRuLIdce91ALLkDKbL6KluZ3FasTbVH5AT9kuNVg87Coir_ldik3oJny2MPT2PJq9MQQxTkdOyFJ2b7/pubhtml?gid=1534493384&single=true)
 - 예선 --- **7월 2일 (토요일)**, 온라인
 - 본선 --- **7월 23일 (토요일)**, 스페이스쉐어 삼성COEX 센터
 
