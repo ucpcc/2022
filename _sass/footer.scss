@@ -19,12 +19,15 @@ div.footer_contents.old_sites {
   }
 }
 
-div.sponsors {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+div.footer_contents div.sponsors {
+  display: grid;
+  font-size: 0.8em;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  place-items: center start;
   align-items: center;
-  gap: 1em 2em;
+  justify-items: center;
+  justify-content: space-around;
+  gap: 16px;
   a {
     filter: grayscale(1);
     transition: filter 0.3s ease;
@@ -36,8 +39,8 @@ div.sponsors {
 
 div.sponsors-grid {
   display: grid;
-  font-size: 1.6em;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  font-size: 1.4em;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
   place-items: center start;
   align-items: center;
   justify-items: center;
