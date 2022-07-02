@@ -40,7 +40,7 @@ permalink: /qualifier/
 
 ## 사용 가능 언어
 
-- ICPC 경향을 따라 **C, C++, Java, Kotlin, Python 3, PyPy3**만 사용 가능합니다.
+- ICPC 경향을 따라 **C, C++, Java, Kotlin, PyPy3**만 사용 가능합니다.
 
 - 언어별 환경과 실행방법은 [BOJ의 언어별 환경](https://www.acmicpc.net/help/language) 페이지를 참고해주세요. 안내 페이지에도 있습니다.
 
