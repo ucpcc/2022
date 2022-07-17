@@ -45,9 +45,36 @@ permalink: /final/
 ### 팀 레퍼런스 문서
 
 - 단면 A4 기준 최대 25쪽으로 구성된 팀 레퍼런스 문서를 지참할 수 있습니다. 팀 레퍼런스 문서는 직접 출력하여 1권 혹은 3권을 지참하여야 합니다.
-  - 인쇄된 글자가 너무 작을 경우(<2mm) 반려될 수 있습니다.
+  - 인쇄된 글자가 너무 작을 경우(<2mm, 약 6pt) 반려될 수 있습니다.
   - 팀 레퍼런스 문서는 등록 시 검사하며, 반려 시 지참할 수 없습니다.
 - 팀 레퍼런스 문서의 모든 페이지에는 팀명과 페이지 번호가 인쇄되어 있어야 합니다.
+
+### 레퍼런스 문서
+
+언어별로 다음과 같은 레퍼런스 문서는 대회 중에 접속해 사용할 수 있습니다.
+
+- C/C++: [https://en.cppreference.com/w/](https://en.cppreference.com/w/)
+- Java: [https://docs.oracle.com/en/java/javase/index.html](https://docs.oracle.com/en/java/javase/index.html)
+- Kotlin: [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
+- Python: [https://docs.python.org/3/](https://docs.python.org/3/)
+
+
+### 사용 가능한 프로그래밍 도구
+
+- 문제풀이에 사용되는 코드는 대회시간에 작성되어야 합니다.
+  - 팀노트에 있는 코드를 따라서 치거나, 위의 레퍼런스 문서에서 코드를 복사/붙여넣기 하는 것은 허용합니다.
+  - 코드 포맷터의 경우에는 코드의 내용을 바꾸지 않고 코드의 공백 등만 바꾸는 경우에 허용합니다.
+  - [Atcoder Library](https://github.com/atcoder/ac-library) 등 알고리즘 문제 풀이와 관련해서 미리 작성된 코드는 사용 불가능합니다. 이는 제출하는 코드에 한정되지 않으며, 코드를 테스팅하기 위해 작성하는 코드를 포함합니다.
+  - [Lex & Yacc](http://dinosaur.compilertools.net/), [cLay](http://rsujskf.s602.xrea.com/?cLay) 등 간단한 문법을 사용하여 코드를 생성하는 도구는 사용 불가능합니다.
+  - 대회 시작 전에 미리 작성된 템플릿 코드는 사용 불가능합니다. 대회 시작 후에 작성된 경우 사용 가능합니다.
+- 자동완성, 코드 추천의 기능은 공식 레퍼런스 문서에 있는 내용과 관련된 자동완성의 경우에 허용합니다.
+  - [Visual Studio Code](https://code.visualstudio.com/)의 확장 중 하나인 [IntelliSense](https://code.visualstudio.com/docs/editor/intellisense), [Sublime Text](https://www.sublimetext.com/)의 [Completions](https://www.sublimetext.com/docs/completions.html) 등은 사용 가능합니다.
+  - 기존 코드를 사용하는 [Copilot](https://github.com/features/copilot) 등의 프로그램은 사용이 불가능합니다.
+- 코드 작성과 관련되지 않은 기타 도구(단축키를 사용하여 컴파일, 입력의 파이프라인, Unix의 `diff`등 코드의 단순 비교 등)는 사용 가능합니다.
+  - Visual Studio Code의 확장 중 하나인 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner), [Competitive Programming Helper](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) 등은 사용 가능합니다.
+- 관련 기타 문의사항이 있는 경우 메인 페이지 문의로 연락주시기 바랍니다.
+
+
 
 ### 대회 중에
 
