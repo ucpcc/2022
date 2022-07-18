@@ -181,14 +181,16 @@ table {
   margin: 1em 0;
   th,
   td {
+    padding: 8px;
     padding: 0.5em 1ch;
+    border-bottom: 1px solid #dddfe0;
   }
   th {
-    font-weight: 800;
-    color: white;
-    background-color: var(--ucpc-amber);
+    text-align: center;
+    font-weight: 700;
   }
-  tr:nth-child(even) {
-    background-color: var(--ucpc-gray-light);
+  td {
+    padding: 8px;
+    border-bottom: 1px solid var(--ucpc-gray-light);
   }
 }
